@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="already_have_an_account_sign_in">Already have an account? / <b>Sign in</b></string>
+</resources>
